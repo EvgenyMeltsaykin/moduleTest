@@ -1,0 +1,7 @@
+D:\Programming\3C#\moduleTest\Calculator\bin\Debug\Calculator.exe.config
+D:\Programming\3C#\moduleTest\Calculator\bin\Debug\Calculator.exe
+D:\Programming\3C#\moduleTest\Calculator\bin\Debug\Calculator.pdb
+D:\Programming\3C#\moduleTest\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Programming\3C#\moduleTest\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Programming\3C#\moduleTest\Calculator\obj\Debug\Calculator.exe
+D:\Programming\3C#\moduleTest\Calculator\obj\Debug\Calculator.pdb

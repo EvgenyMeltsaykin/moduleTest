@@ -1,0 +1,13 @@
+D:\Programming\3C#\moduleTest\moduleTest\bin\Debug\netcoreapp3.1\moduleTest.exe
+D:\Programming\3C#\moduleTest\moduleTest\bin\Debug\netcoreapp3.1\moduleTest.deps.json
+D:\Programming\3C#\moduleTest\moduleTest\bin\Debug\netcoreapp3.1\moduleTest.runtimeconfig.json
+D:\Programming\3C#\moduleTest\moduleTest\bin\Debug\netcoreapp3.1\moduleTest.runtimeconfig.dev.json
+D:\Programming\3C#\moduleTest\moduleTest\bin\Debug\netcoreapp3.1\moduleTest.dll
+D:\Programming\3C#\moduleTest\moduleTest\bin\Debug\netcoreapp3.1\moduleTest.pdb
+D:\Programming\3C#\moduleTest\moduleTest\obj\Debug\netcoreapp3.1\moduleTest.csprojAssemblyReference.cache
+D:\Programming\3C#\moduleTest\moduleTest\obj\Debug\netcoreapp3.1\moduleTest.AssemblyInfoInputs.cache
+D:\Programming\3C#\moduleTest\moduleTest\obj\Debug\netcoreapp3.1\moduleTest.AssemblyInfo.cs
+D:\Programming\3C#\moduleTest\moduleTest\obj\Debug\netcoreapp3.1\moduleTest.csproj.CoreCompileInputs.cache
+D:\Programming\3C#\moduleTest\moduleTest\obj\Debug\netcoreapp3.1\moduleTest.dll
+D:\Programming\3C#\moduleTest\moduleTest\obj\Debug\netcoreapp3.1\moduleTest.pdb
+D:\Programming\3C#\moduleTest\moduleTest\obj\Debug\netcoreapp3.1\moduleTest.genruntimeconfig.cache
