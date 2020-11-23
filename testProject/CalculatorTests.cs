@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace testProject
 {
 	[TestClass]
-	public class UnitTest1 
+	public class CalculatorTests 
 	{
 		[TestMethod]
 		public void summaTest()
