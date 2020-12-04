@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CalculatorNS
+namespace Calculator
 {
-    public class Calculator
+    public class Calc
     {
-		public Calculator() { }
+		public Calc() { }
 		public double summa(double a, double b)
 		{
 			return a + b;

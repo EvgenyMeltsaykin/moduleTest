@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using CalculatorNS;
+using Calculator;
 using System.Threading.Tasks;
 
-namespace CalculatorMainNS
+namespace Calculator
 {
 	public class CalculatorMain
 	{
@@ -21,7 +21,8 @@ namespace CalculatorMainNS
 				Console.Write("Второе число: ");
 				bString = Console.ReadLine();
 				double answer = double.MaxValue;
-				if (wrongInput(aString, bString))
+				InputClass input = new InputClass();
+				if (input.wrongInput(aString, bString))
                 {
 					Console.WriteLine("Неверный ввод");
                 }
@@ -34,7 +35,7 @@ namespace CalculatorMainNS
 					string codeString = Console.ReadLine();
                     try
                     {
-						if (wrongInputVar(codeString, "int"))
+						if (input.wrongInputVar(codeString, "int"))
 						{
 							Console.WriteLine("Неверный пункт меню");
 							continue;
@@ -89,31 +90,6 @@ namespace CalculatorMainNS
 			return false;
         }
 
-		public static bool wrongInputVar(string variable, string type)
-        {
-            switch (type)
-            {
-				case "int":
-					int a;
-					bool isNumeric = int.TryParse(variable, out a);
-					return !isNumeric;
-				case "double":
-					double b;
-					isNumeric = double.TryParse(variable, out b);
-					return !isNumeric;
-				default:
-					throw new Exception();
-
-			}			
-        }
-		public static bool wrongInput(string aString, string bString)
-        {
-			bool wrongA = wrongInputVar(aString, "double") ;
-			bool wrongB = wrongInputVar(bString, "double") ;
-			if (wrongA || wrongB) return true;
-			return false;
-        }
-
 		public static bool rightCodeMenu(int code)
         {
 			if (code < 1 || code > 4) return false;
@@ -121,7 +97,7 @@ namespace CalculatorMainNS
         }
 		public static double doAction(int key, double a, double b)
 		{
-			Calculator calculator = new Calculator();
+			Calc calculator = new Calc();
 			double answer = 0;
 			switch (key)
 			{
