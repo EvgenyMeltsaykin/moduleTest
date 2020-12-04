@@ -5,3 +5,10 @@ D:\Programming\3C#\moduleTest\Calculator\obj\Debug\Calculator.csprojAssemblyRefe
 D:\Programming\3C#\moduleTest\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 D:\Programming\3C#\moduleTest\Calculator\obj\Debug\Calculator.exe
 D:\Programming\3C#\moduleTest\Calculator\obj\Debug\Calculator.pdb
+\\files\students\Student\Desktop\moduleTest\Calculator\bin\Debug\Calculator.exe.config
+\\files\students\Student\Desktop\moduleTest\Calculator\bin\Debug\Calculator.exe
+\\files\students\Student\Desktop\moduleTest\Calculator\bin\Debug\Calculator.pdb
+\\files\students\Student\Desktop\moduleTest\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+\\files\students\Student\Desktop\moduleTest\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+\\files\students\Student\Desktop\moduleTest\Calculator\obj\Debug\Calculator.exe
+\\files\students\Student\Desktop\moduleTest\Calculator\obj\Debug\Calculator.pdb
